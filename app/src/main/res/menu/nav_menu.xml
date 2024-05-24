@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/PokemonList"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="@string/pokemon_list" />
+    <item
+        android:id="@+id/MyPokemonList"
+        android:icon="@drawable/baseline_collections_bookmark_24"
+        android:title="@string/my_pokemon_list" />
+</menu>
